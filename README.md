@@ -61,7 +61,7 @@
   <h3>🚀 My Projects</h3>
   <p>Check out some of my projects:</p>
   <p>
-    <a href="[https://github.com/Kaweesha17420/project1](https://github.com/Kaweesha17420/SkyLink/tree/085bd3a96a592103c4c848a280a871c0a9097ff6/Skylink)">
+    <a href="Skylink">
       <img src="https://img.shields.io/badge/Project_1-100000?style=for-the-badge&logo=github&logoColor=white" alt="Project 1">
     </a>
     <a href="https://github.com/Kaweesha17420/project2">
